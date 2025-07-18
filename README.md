@@ -16,25 +16,25 @@ DFNet is an intelligent system designed for the robust detection of both animal 
 The **COD10KM** dataset is a comprehensive collection used for evaluating camouflage detection models. It includes paired RGB and depth images for both animal and human camouflage detection. The dataset consists of 8,394 high-quality samples, covering diverse camouflage environments.
 
 You can access the **COD10KM** dataset here:  
-[Download COD10KM Dataset](<your-baidu-cloud-link>)
+[Download COD10KM Dataset](<https://pan.baidu.com/s/1tbvG7nDvrOnc8VFBunmQrg?pwd=pp36>)
 
 ## Model Segmentation Results Visualization
 DFNet's segmentation results can be visualized across different challenging scenarios, demonstrating its ability to distinguish camouflaged objects in complex environments.
 
 You can view the **segmentation results** here:  
-[Segmentation Results Visualization](<your-baidu-cloud-link>)
+[Segmentation Results Visualization](<https://pan.baidu.com/s/12yDrs7vTucIkFDoAbqcF8w?pwd=oium>)
 
 ## Model Weights
 The pre-trained model weights are provided to allow users to perform inference with DFNet on their own datasets.
 
 You can download the **model weights** here:  
-[Download Model Weights](<your-baidu-cloud-link>)
+[Download Model Weights](<https://pan.baidu.com/s/1KDSUnpemps5KF8mUPQXdJA?pwd=6ccw>)
 
 ## PVT Weights
 For improved performance, the **PVT weights** are available as part of the pre-trained model. These weights are optimized for segmentation tasks in both ecological and agricultural contexts.
 
 You can download the **PVT weights** here:  
-[Download PVT Weights](<your-baidu-cloud-link>)
+[Download PVT Weights](<https://pan.baidu.com/s/12UPKh0EXqRPiPkJUYx-JUA?pwd=a6dd>)
 
 ## Installation and Requirements
 ### Clone the repository:
