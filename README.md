@@ -5,9 +5,12 @@ Breaking Biological Camouflage: DFNet for Unified Detection Across Species Lever
 DFNet is an intelligent system designed for the robust detection of both animal (COD) and plant (CCD) camouflage, utilizing monocular depth estimation to enhance geometric understanding and eliminate dependency on specialized sensors.
 
 ## Key Features:
-- **Unified Cross-Species Camouflage Detection**: Detects both animal and plant camouflage across complex environments.
-- **Depth-Guided Multimodal Integration**: Combines RGB images with depth information to improve target segmentation.
-- **State-of-the-Art Performance**: Outperforms existing methods on various camouflage detection benchmarks, including the **COD10KM** dataset.
+- Proposes **DFNet**, an intelligent system for unified cross-species camouflage detection.
+- Leverages monocular depth estimation for cost-effective 3D perception without special hardware.
+- Introduces adaptive **CUP** and **SMAR** modules to handle morphological variance and occlusion.
+- Outperforms state-of-the-art methods in both animal and plant camouflage scenarios.
+- Contributes **COD10KM**, a new large-scale benchmark with paired RGB and estimated depth data.
+
 
 ## COD10KM Dataset
 The **COD10KM** dataset is a comprehensive collection used for evaluating camouflage detection models. It includes paired RGB and depth images for both animal and human camouflage detection. The dataset consists of 8,394 high-quality samples, covering diverse camouflage environments.
