@@ -23,21 +23,21 @@ Google Drive:(<https://drive.google.com/file/d/1iBrnXLhX0x_oCIIiQnF8AUJUGPdMU_aB
 DFNet's segmentation results can be visualized across different challenging scenarios, demonstrating its ability to distinguish camouflaged objects in complex environments.
 
 You can view the **segmentation results** here:  
-Baidu NetDisk:：(<https://pan.baidu.com/s/1V3KnYyBxtJOsXNz0qk9ISg?pwd=a669>)
+Baidu NetDisk:(<https://pan.baidu.com/s/1V3KnYyBxtJOsXNz0qk9ISg?pwd=a669>)
 Google Drive:(<https://drive.google.com/file/d/1r-8jvEJBBRSdMkyCqO_7MvKfIFo441__/view?usp=sharing>)
 
 ## Model Weights
 The pre-trained model weights are provided to allow users to perform inference with DFNet on their own datasets.
 
 You can download the **model weights** here:  
-Baidu NetDisk:：(<https://pan.baidu.com/s/1KDSUnpemps5KF8mUPQXdJA?pwd=6ccw>)
+Baidu NetDisk:(<https://pan.baidu.com/s/1KDSUnpemps5KF8mUPQXdJA?pwd=6ccw>)
 Google Drive:(<https://drive.google.com/drive/folders/1-sfTvFcx8gpQBU-U8CEjTtLXfbLeXrud?usp=sharing>)
 
 ## PVT Weights
 For improved performance, the **PVT weights** are available as part of the pre-trained model. These weights are optimized for segmentation tasks in both ecological and agricultural contexts.
 
 You can download the **PVT weights** here:  
-Baidu NetDisk:：(<https://pan.baidu.com/s/12UPKh0EXqRPiPkJUYx-JUA?pwd=a6dd>)
+Baidu NetDisk:(<https://pan.baidu.com/s/12UPKh0EXqRPiPkJUYx-JUA?pwd=a6dd>)
 Google Drive:(<https://drive.google.com/file/d/1Bd6_14qADw15wcYwJJHm4Yz1yfP6J-Xs/view?usp=sharing>)
 
 ## Installation and Requirements
