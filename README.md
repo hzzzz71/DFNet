@@ -1,4 +1,15 @@
-Breaking Biological Camouflage: DFNet for Unified Detection Across Species Leveraging Depth and Multimodal Fusion
+# Breaking Biological Camouflage: DFNet for Unified Detection Across Species Leveraging Depth and Multimodal Fusion
+
+This repository provides the official implementation of our paper.  
+The paper is available at: https://doi.org/10.1016/j.asoc.2025.114531
+
+<div align="center">
+<img width="1200" height="650" alt="GHBanner" src="fig6.png" />
+</div>
+
+<div align="center">
+<img width="1200" height="650" alt="GHBanner" src="fig7.png" />
+</div>
 
 ## Overview
 DFNet is an intelligent system designed for the robust detection of both animal (COD) and plant (CCD) camouflage, utilizing monocular depth estimation to enhance geometric understanding and eliminate dependency on specialized sensors.
